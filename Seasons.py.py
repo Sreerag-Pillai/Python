@@ -4,22 +4,11 @@
 # In[14]:
 
 
-#**********************  Idle_3_Seasons.py  ****************************************************************************
+#*************************************************************************************************************************
 #
-# Name: Sreerag M. Pillai
+#Objective: Program will take user input for date and output's corresponding season
 #
-# Course: CSCI 1470.01
-#
-# Assignment: Idle programming assignment #3
-#
-# Algorythm: Program will take user input for date and output's corresponding season
-#            date = user input
-#            month = user input
-#            if month and date =  March 20 to June 20 = Spring
-#            if month and date = June 21 to September 21 = Summer
-#            if month and date = September 22 to December 20 = Autumn
-#            if month and date = December 21 to March 19 = Winter
-#***************************************************************************************************************************
+#**************************************************************************************************************************
 
 print('Enter desired month:', end = ' ')
 month = str(input())
