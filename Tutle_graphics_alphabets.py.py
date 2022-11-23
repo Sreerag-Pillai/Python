@@ -4,36 +4,9 @@
 # In[1]:
 
 
-#**********************  Idle_4_Turtle.py  ****************************************************************************
+#********************************************* ****************************************************************************
 #
-# Name: Sreerag M. Pillai
-#
-# Course: CSCI 1470.01
-#
-# Assignment: Idle programming assignment #4
-#
-# Algorythm: Program will draw 8 different alphabet
-#
-#for alphabet s: onyx. penup(), setpos(-200, 200), pendown(), backward(30), right(120), forward(15), left(45), forward(15),
-#                right(103), backward(30), left(105), forward(15), right(45), forward(15), left(-60), forward(30)
-#
-#for alpahbet A: onyx. penup(), setpos(-140, 200), pendown(), left(65), forward(60), penup(), setpos(-140, 200),
-#                pendown(), right(130), backward(60)penup(), setpos(-127, 170), pendown(), right(120), backward(21)
-#
-# for alpahabet E: onyx. penup(), setpos(-80, 200), pendown(), forward(40), penup(), setpos(-80, 200), pendown()
-#                  right(85), forward(55), right(-90), forward(40), penup(), setpos(-80, 175), pendown(), forward(40)
-#
-#for alphabet C: onyx. penup(), setpos(10, 200), pendown(), left(180), circle(25,180)
-#
-#for alphabet p: onyx. penup(), setpos(50, 200), pendown(), right(90), forward(50), penup(), setpos(50, 200), pendown(), 
-#                forward(30), left(90), circle(15,180), right(180)
-#
-#for alphabet Y: onyx. penup(), setpos(130, 200), pendown(), right(110), forward(55), backward(25), right(110), forward(35)
-#
-#for alphabet T: onyx. penup(), setpos(180, 200), pendown(), right(-40), forward(40), backward(20), right(-90), forward(50)
-#
-#for alphabet O: onyx. penup(), setpos(200, 170), pendown(), circle(25,360)
-#wn.mainloop()
+# Objective: Program will draw 8 different alphabet using Tutle
 #           
 #***************************************************************************************************************************
 import turtle
